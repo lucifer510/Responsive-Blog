@@ -73,10 +73,6 @@
   }
 
   .adjust-cc{
-    height:auto;
-  }
-
-  .sticky-bottom{
-    position: static;  
+    height:120vh;
   }
 }
