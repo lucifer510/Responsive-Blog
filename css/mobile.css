@@ -1,4 +1,10 @@
 @media screen and (max-width: 1200px) {
+  *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+  }
   .navigation {
     flex-direction: column;
     margin-bottom: 23px;
