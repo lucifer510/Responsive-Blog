@@ -66,4 +66,9 @@
     justify-content: flex-end;
     width: 100%;
   }
+
+  .adjust{
+    bottom: 20px;
+    right: 30px;
+  }
 }
