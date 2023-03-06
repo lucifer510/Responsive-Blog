@@ -3,10 +3,10 @@ document.onreadystatechange = function() {
         document.querySelector(
           "body").style.visibility = "hidden";
         document.querySelector(
-          "#spinner").style.visibility = "visible";
+          ".spinner").style.visibility = "visible";
     } else {
         document.querySelector(
-          "#spinner").style.display = "none";
+          ".spinner").style.display = "none";
         document.querySelector(
           "body").style.visibility = "visible";
     }
